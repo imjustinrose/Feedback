@@ -4,7 +4,15 @@
 </h1>
 
 <h4 align="center">A framework to measure an application's usability</h4>
+<br>
+<hr>
+Feedback allows developers to create their own data points for iOS applications.
 
+Snippets of code are provided below on how to use the framework. However, there is no project located in this repository because Feedback was created while I was interning at State Farm. This is a sample of the markdown file I wrote for the team.
+
+###### © Copyright, State Farm Mutual Automobile Insurance Company, 2017.
+<hr>
+<br>
 
 ## Setting the Data Points
 
