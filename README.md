@@ -5,8 +5,16 @@
 
 <h4 align="center">A framework to measure an application's usability</h4>
 <br>
-<hr>
+
 Feedback allows developers to create their own data points for iOS applications.<br><br>
+
+![](img/no_selection.png)  | ![](img/selection.png)    | ![](img/thank_you.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+
+
+<br>
+
+<hr>
 
 Snippets of code are provided below on how to use the framework. However, there is no project located in this repository because Feedback was created while I was interning at State Farm. This is a sample of the markdown file I wrote for the team.
 
@@ -22,7 +30,7 @@ Snippets of code are provided below on how to use the framework. However, there 
 ~~~~
 override func viewDidLoad() {
     super.viewDidLoad()
-        
+
     FeedbackEnvironment.add(with: [Emoji.bad, Emoji.ok, Emoji.good])
 }
 ~~~~
