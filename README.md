@@ -60,9 +60,9 @@ override func viewDidLoad() {
 
 1. This function presents `FeedbackViewController`.
 2. `onSubmit` is a Closure that is called when a user "sends" feedback. Three things are available to you at this time.<br><br>
-  1. `choice`: The currently selected data point.
-  2. `text`: The text the user has entered in the `UITextView`.
-  3. `completion`: Performs a segue to the `FeedbackCompletionViewController`.<br><br>
+    1. `choice`: The currently selected data point.
+    2. `text`: The text the user has entered in the `UITextView`.
+    3. `completion`: Performs a segue to the `FeedbackCompletionViewController`.<br><br>
 3. `onCancel` is a Closure that is called when a user "cancels" out of feedback. It is up to you how you want to handle this action.
 
 <br><br>
